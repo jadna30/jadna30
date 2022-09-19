@@ -3,7 +3,7 @@
 - 👀 I’m interested in Becoming My Own Boss
 - 📕 I’m currently learning React and FastAPI
 - 💞️ I’m looking to collaborate on Start-Up Projects
-- 📫 How to reach me jadnahle99@gmai.com
+- 📫 How to reach me jadnahle99@gmail.com
 
 <!---
 jadna30/jadna30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
